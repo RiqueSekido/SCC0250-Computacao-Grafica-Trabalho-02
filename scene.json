@@ -6,17 +6,17 @@
         "angulo_obj": 0.0,
         "translacao": [
             7.5,
-            -306.89,
+            -309.39,
             -254.0
         ],
         "escala": [
-            5.699999999999922,
-            5.699999999999922,
-            5.699999999999922
+            5.619999999999924,
+            5.619999999999924,
+            5.619999999999924
         ],
         "rotacao": [
             -75.3,
-            362.80000000000007,
+            364.30000000000007,
             16.500000000000014
         ],
         "id_textura": 0,
@@ -50,6 +50,59 @@
         "visible": true,
         "polygon": false,
         "scene_id": 1
+    },
+    {
+        "name": "cacamba",
+        "obj_file": "objetos/cacamba/Low Poly Stylized Industrial Dumpster.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            0.0,
+            0.0,
+            -20.0
+        ],
+        "escala": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "id_textura": 2,
+        "obj_id": 2,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 2
+    },
+    {
+        "name": "casa",
+        "obj_file": "objetos/casa/casa.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            0.0,
+            0.0,
+            -20.0
+        ],
+        "escala": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "id_textura": 3,
+        "obj_id": 3,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 3
     }
-    
 ]
