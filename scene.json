@@ -1,23 +1,23 @@
 [
     {
-        "name": "homemanha",
-        "obj_file": "objetos/spiderman/spiderman.obj",
-        "texture_file": "objetos/spiderman/spiderman.png",
+        "name": "grama",
+        "obj_file": "objetos/grama/grama.obj",
+        "texture_file": "objetos/grama/grama.jpg",
         "angulo_obj": 0.0,
         "translacao": [
-            0.34999999999999853,
-            -0.3900000000000002,
-            -20.0
+            7.5,
+            -306.89,
+            -254.0
         ],
         "escala": [
-            0.8499999999999994,
-            0.8499999999999994,
-            0.8499999999999994
+            5.699999999999922,
+            5.699999999999922,
+            5.699999999999922
         ],
         "rotacao": [
-            0.0,
-            0.15000000000000002,
-            1.0
+            -75.3,
+            362.80000000000007,
+            16.500000000000014
         ],
         "id_textura": 0,
         "obj_id": 0,
@@ -26,19 +26,19 @@
         "scene_id": 0
     },
     {
-        "name": "homemanha",
+        "name": "spiderman",
         "obj_file": "objetos/spiderman/spiderman.obj",
         "texture_file": "objetos/spiderman/spiderman.png",
         "angulo_obj": 0.0,
         "translacao": [
-            4.729999999999942,
-            0.0,
+            2.0,
+            -193.5,
             -20.0
         ],
         "escala": [
-            1.58,
-            1.58,
-            1.58
+            1.5,
+            1.5,
+            1.5
         ],
         "rotacao": [
             0.0,
@@ -50,57 +50,6 @@
         "visible": true,
         "polygon": false,
         "scene_id": 1
-    },
-    {
-        "name": "homemanha",
-        "obj_file": "objetos/spiderman/spiderman.obj",
-        "texture_file": "objetos/spiderman/spiderman.png",
-        "angulo_obj": 0.0,
-        "translacao": [
-            2.1099999999999977,
-            -4.079999999999957,
-            -20.0
-        ],
-        "escala": [
-            1.5,
-            1.5,
-            1.5
-        ],
-        "rotacao": [
-            0.0,
-            0.0,
-            1.0
-        ],
-        "id_textura": 2,
-        "obj_id": 2,
-        "visible": true,
-        "polygon": false,
-        "scene_id": 2
-    },
-    {
-        "name": "caixa",
-        "obj_file": "objetos/caixa/caixa.obj",
-        "texture_file": "objetos/caixa/caixa.jpg",
-        "angulo_obj": 0.0,
-        "translacao": [
-            2.2499999999999947,
-            -0.7000000000000004,
-            -20.0
-        ],
-        "escala": [
-            1.5,
-            1.5,
-            1.5
-        ],
-        "rotacao": [
-            0.0,
-            0.0,
-            1.0
-        ],
-        "id_textura": 3,
-        "obj_id": 3,
-        "visible": true,
-        "polygon": false,
-        "scene_id": 3
     }
+    
 ]
