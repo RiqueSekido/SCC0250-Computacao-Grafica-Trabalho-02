@@ -6,14 +6,14 @@
         "mtl_texture_overrides": {},
         "angulo_obj": 0.0,
         "translacao": [
-            2.5,
+            -0.5,
             -2.5,
             -31.0
         ],
         "escala": [
-            0.01,
-            0.01,
-            0.01
+            0.0129999999999999,
+            0.0129999999999999,
+            0.0129999999999999
         ],
         "rotacao": [
             -90,
@@ -58,14 +58,41 @@
         "scene_id": 6
     },
     {
-        "name": "casq",
-        "obj_file": "objetos/cas/house.mtl.obj",
+        "name": "Chão",
+        "obj_file": "objetos/ground-desert/ground.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            0.0,
+            -2.5,
+            -20.0
+        ],
+        "escala": [
+            100,
+            0.1,
+            100
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "id_textura": 6,
+        "obj_id": 6,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 6
+    },
+    {
+        "name": "casa",
+        "obj_file": "objetos/casa/house.mtl.obj",
         "texture_file": null,
         "mtl_texture_overrides": {
-            "Cottage_FREE": "objetos/cas/Cottage_Dirt_Base_Color.png",
-            "Material": "objetos/cas/FloorsMarble0020_2_S.jpg",
-            "piso": "objetos/cas/FloorsMarble0020_2_S.jpg",
-            "piso_1": "objetos/cas/FloorsMarble0020_2_S.jpg"
+            "Cottage_FREE": "objetos/casa/Cottage_Dirt_Base_Color.png",
+            "Material": "objetos/casa/FloorsMarble0020_2_S.jpg",
+            "piso": "objetos/casa/FloorsMarble0020_2_S.jpg",
+            "piso_1": "objetos/casa/FloorsMarble0020_2_S.jpg"
         },
         "angulo_obj": 0.0,
         "translacao": [
@@ -88,5 +115,176 @@
         "visible": true,
         "polygon": false,
         "scene_id": 3
+    },
+    {
+        "name": "oven",
+        "obj_file": "objetos/oven/10122_Microwave_Oven_v1_L3.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            0.0,
+            0.0,
+            -20.0
+        ],
+        "escala": [
+            0.009999999999999247,
+            0.009999999999999247,
+            0.009999999999999247
+        ],
+        "rotacao": [
+            0.0,
+            288.5,
+            0.0
+        ],
+        "id_textura": 7,
+        "obj_id": 7,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 7
+    },
+    {
+        "name": "gnome",
+        "obj_file": "objetos/gnome/garden_gnome_4k.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            0.0,
+            0.0,
+            -20.0
+        ],
+        "escala": [
+            1.9600000000000009,
+            1.9600000000000009,
+            1.9600000000000009
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "id_textura": 8,
+        "obj_id": 8,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 8
+    },
+    {
+        "name": "vaso_de_planta",
+        "obj_file": "objetos/vaso_de_planta/vaso_de_planta.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {
+            "potted_plant_02_leaves": "objetos/vaso_de_planta/textures/potted_plant_02_leaves_diff_4k.png",
+            "potted_plant_02_pot": "objetos/vaso_de_planta/textures/potted_plant_02_pot_diff_4k.png"
+        },
+        "angulo_obj": 0.0,
+        "translacao": [
+            0.0,
+            0.0,
+            -20.0
+        ],
+        "escala": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "id_textura": 9,
+        "obj_id": 9,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 9
+    },
+    {
+        "name": "pato",
+        "obj_file": "objetos/pato/rubber_duck_toy_4k.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {
+            "rubber_duck_toy": "objetos/pato/textures/rubber_duck_toy_diff_4k.jpg"
+        },
+        "angulo_obj": 0.0,
+        "translacao": [
+            -1.5,
+            0.0,
+            -20.0
+        ],
+        "escala": [
+            1.6400000000000006,
+            1.6400000000000006,
+            1.6400000000000006
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "id_textura": 10,
+        "obj_id": 10,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 10
+    },
+    {
+        "name": "stove",
+        "obj_file": "objetos/stove/stove.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            0.0,
+            0.0,
+            -20.0
+        ],
+        "escala": [
+            0.009999999999999247,
+            0.009999999999999247,
+            0.009999999999999247
+        ],
+        "rotacao": [
+            0.0,
+            -1.5,
+            0.0
+        ],
+        "id_textura": 11,
+        "obj_id": 11,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 11
+    },
+    {
+        "name": "spinner",
+        "obj_file": "objetos/spinner/spinner.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {
+            "Center": "objetos/spinner/three.jpg",
+            "Cores": "objetos/spinner/middle.jpg",
+            "Shell": "objetos/spinner/color.jpg"
+        },
+        "angulo_obj": 0.0,
+        "translacao": [
+            -2.0,
+            0.0,
+            -20.0
+        ],
+        "escala": [
+            0.0009999999999990078,
+            0.0009999999999990078,
+            0.0009999999999990078
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "id_textura": 12,
+        "obj_id": 12,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 12
     }
 ]
