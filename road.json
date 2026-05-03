@@ -1,0 +1,1703 @@
+[
+    {
+        "name": "Estrada_Central",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            0.0,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E01",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -13.0962645,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D01",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            13.0962645,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E02",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -26.192529,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D02",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            26.192529,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E03",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -39.2887935,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D03",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            39.2887935,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E04",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -52.385058,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D04",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            52.385058,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E05",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -65.4813225,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D05",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            65.4813225,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E06",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -78.577587,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D06",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            78.577587,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E07",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -91.6738515,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D07",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            91.6738515,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E08",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -104.770116,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D08",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            104.770116,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E09",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -117.8663805,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D09",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            117.8663805,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E10",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -130.962645,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D10",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            130.962645,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E11",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -144.0589095,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D11",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            144.0589095,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E12",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -157.155174,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D12",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            157.155174,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E13",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -170.2514385,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D13",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            170.2514385,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E14",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -183.347703,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D14",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            183.347703,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E15",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -196.4439675,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D15",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            196.4439675,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E16",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -209.540232,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D16",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            209.540232,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E17",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -222.6364965,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D17",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            222.6364965,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E18",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -235.732761,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D18",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            235.732761,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E19",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -248.8290255,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D19",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            248.8290255,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E20",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -261.92529,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D20",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            261.92529,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E21",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -275.0215545,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D21",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            275.0215545,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E22",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -288.117819,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D22",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            288.117819,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E23",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -301.2140835,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D23",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            301.2140835,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E24",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -314.310348,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D24",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            314.310348,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E25",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -327.4066125,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D25",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            327.4066125,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E26",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -340.502877,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D26",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            340.502877,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E27",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -353.59914150000003,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D27",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            353.59914150000003,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E28",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -366.695406,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D28",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            366.695406,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E29",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -379.7916705,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D29",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            379.7916705,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E30",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -392.887935,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D30",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            392.887935,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_E31",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -405.9841995,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Estrada_D31",
+        "obj_file": "objetos/road/road.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            405.9841995,
+            -2.7,
+            -35.5
+        ],
+        "escala": [
+            1.5,
+            1.0,
+            1.5
+        ],
+        "rotacao": [
+            0.0,
+            -90,
+            0.0
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    }
+]

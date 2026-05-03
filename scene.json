@@ -58,33 +58,6 @@
         "scene_id": 6
     },
     {
-        "name": "Chão",
-        "obj_file": "objetos/ground-desert/ground.obj",
-        "texture_file": null,
-        "mtl_texture_overrides": {},
-        "angulo_obj": 0.0,
-        "translacao": [
-            0.0,
-            -2.5,
-            -20.0
-        ],
-        "escala": [
-            100,
-            0.1,
-            100
-        ],
-        "rotacao": [
-            0.0,
-            0.0,
-            0.0
-        ],
-        "id_textura": 6,
-        "obj_id": 6,
-        "visible": true,
-        "polygon": false,
-        "scene_id": 6
-    },
-    {
         "name": "casq",
         "obj_file": "objetos/cas/house.mtl.obj",
         "texture_file": null,
@@ -115,86 +88,5 @@
         "visible": true,
         "polygon": false,
         "scene_id": 3
-    },
-    {
-        "name": "Estrada_Central",
-        "obj_file": "objetos/road/road.obj",
-        "texture_file": null,
-        "mtl_texture_overrides": {},
-        "angulo_obj": 0.0,
-        "translacao": [
-            0.0,
-            -2.7,
-            -35.5
-        ],
-        "escala": [
-            1.5,
-            1.0,
-            1.5
-        ],
-        "rotacao": [
-            0.0,
-            -90,
-            0.0
-        ],
-        "id_textura": 4,
-        "obj_id": 4,
-        "visible": true,
-        "polygon": false,
-        "scene_id": 4
-    },
-    {
-        "name": "Estrada_E01",
-        "obj_file": "objetos/road/road.obj",
-        "texture_file": null,
-        "mtl_texture_overrides": {},
-        "angulo_obj": 0.0,
-        "translacao": [
-            -13.0962645,
-            -2.7,
-            -35.5
-        ],
-        "escala": [
-            1.5,
-            1.0,
-            1.5
-        ],
-        "rotacao": [
-            0.0,
-            -90,
-            0.0
-        ],
-        "id_textura": 4,
-        "obj_id": 4,
-        "visible": true,
-        "polygon": false,
-        "scene_id": 4
-    },
-    {
-        "name": "Estrada_D01",
-        "obj_file": "objetos/road/road.obj",
-        "texture_file": null,
-        "mtl_texture_overrides": {},
-        "angulo_obj": 0.0,
-        "translacao": [
-            13.0962645,
-            -2.7,
-            -35.5
-        ],
-        "escala": [
-            1.5,
-            1.0,
-            1.5
-        ],
-        "rotacao": [
-            0.0,
-            -90,
-            0.0
-        ],
-        "id_textura": 4,
-        "obj_id": 4,
-        "visible": true,
-        "polygon": false,
-        "scene_id": 4
     }
 ]
