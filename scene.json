@@ -58,33 +58,6 @@
         "scene_id": 6
     },
     {
-        "name": "Chão",
-        "obj_file": "objetos/ground-desert/ground.obj",
-        "texture_file": null,
-        "mtl_texture_overrides": {},
-        "angulo_obj": 0.0,
-        "translacao": [
-            0.0,
-            -2.5,
-            -20.0
-        ],
-        "escala": [
-            100,
-            0.1,
-            100
-        ],
-        "rotacao": [
-            0.0,
-            0.0,
-            0.0
-        ],
-        "id_textura": 6,
-        "obj_id": 6,
-        "visible": true,
-        "polygon": false,
-        "scene_id": 6
-    },
-    {
         "name": "casa",
         "obj_file": "objetos/casa/house.mtl.obj",
         "texture_file": null,
