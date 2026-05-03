@@ -96,9 +96,9 @@
         "mtl_texture_overrides": {},
         "angulo_obj": 0.0,
         "translacao": [
-            0.0,
-            0.0,
-            -20.0
+            5.5,
+            -1.0,
+            -16.0
         ],
         "escala": [
             0.009999999999999247,
@@ -106,9 +106,9 @@
             0.009999999999999247
         ],
         "rotacao": [
-            0.0,
-            288.5,
-            0.0
+            85.0,
+            180.0,
+            -2.0
         ],
         "id_textura": 7,
         "obj_id": 7,
@@ -123,14 +123,14 @@
         "mtl_texture_overrides": {},
         "angulo_obj": 0.0,
         "translacao": [
-            0.0,
-            0.0,
-            -20.0
+            6.0,
+            -2.0,
+            -23.5
         ],
         "escala": [
-            1.9600000000000009,
-            1.9600000000000009,
-            1.9600000000000009
+            1.3600000000000003,
+            1.3600000000000003,
+            1.3600000000000003
         ],
         "rotacao": [
             0.0,
@@ -153,14 +153,14 @@
         },
         "angulo_obj": 0.0,
         "translacao": [
-            0.0,
-            0.0,
-            -20.0
+            -3.0,
+            -2.0,
+            -23.5
         ],
         "escala": [
-            1.0,
-            1.0,
-            1.0
+            1.1500000000000001,
+            1.1500000000000001,
+            1.1500000000000001
         ],
         "rotacao": [
             0.0,
@@ -182,18 +182,18 @@
         },
         "angulo_obj": 0.0,
         "translacao": [
-            -1.5,
-            0.0,
-            -20.0
+            4.5,
+            -2.0,
+            -23.5
         ],
         "escala": [
-            1.6400000000000006,
-            1.6400000000000006,
-            1.6400000000000006
+            1.7250000000000112,
+            1.7250000000000112,
+            1.7250000000000112
         ],
         "rotacao": [
             0.0,
-            0.0,
+            28.0,
             0.0
         ],
         "id_textura": 10,
@@ -209,9 +209,9 @@
         "mtl_texture_overrides": {},
         "angulo_obj": 0.0,
         "translacao": [
-            0.0,
-            0.0,
-            -20.0
+            4.5,
+            -2.0,
+            -16.0
         ],
         "escala": [
             0.009999999999999247,
@@ -219,9 +219,9 @@
             0.009999999999999247
         ],
         "rotacao": [
-            0.0,
-            -1.5,
-            0.0
+            -89.5,
+            -0.5,
+            -179.5
         ],
         "id_textura": 11,
         "obj_id": 11,
@@ -240,18 +240,18 @@
         },
         "angulo_obj": 0.0,
         "translacao": [
-            -2.0,
-            0.0,
-            -20.0
+            5.5,
+            -1.5,
+            -23.0
         ],
         "escala": [
-            0.0009999999999990078,
-            0.0009999999999990078,
-            0.0009999999999990078
+            0.0009999999999990017,
+            0.0009999999999990017,
+            0.0009999999999990017
         ],
         "rotacao": [
-            0.0,
-            0.0,
+            2.0,
+            -76.0,
             0.0
         ],
         "id_textura": 12,
@@ -259,5 +259,92 @@
         "visible": true,
         "polygon": false,
         "scene_id": 12
+    },
+    {
+        "name": "sofa",
+        "obj_file": "objetos/sofa/sofa.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {
+            "sofa_02": "objetos/sofa/textures/sofa_02_diff_4k.jpg"
+        },
+        "angulo_obj": 0.0,
+        "translacao": [
+            -5.0,
+            -2.0,
+            -23.0
+        ],
+        "escala": [
+            1.1800000000000002,
+            1.1800000000000002,
+            1.1800000000000002
+        ],
+        "rotacao": [
+            0.0,
+            35.5,
+            0.0
+        ],
+        "id_textura": 697,
+        "obj_id": 697,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 697
+    },
+    {
+        "name": "cama",
+        "obj_file": "objetos/cama/cama.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {
+            "GothicBed_01": "objetos/cama/textures/GothicBed_01_diff_4k.jpg"
+        },
+        "angulo_obj": 0.0,
+        "translacao": [
+            -4.0,
+            -1.5,
+            -22.5
+        ],
+        "escala": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "rotacao": [
+            0.0,
+            182.0,
+            0.0
+        ],
+        "id_textura": 698,
+        "obj_id": 698,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 698
+    },
+    {
+        "name": "mesa",
+        "obj_file": "objetos/mesa/mesa.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {
+            "gothic_coffee_table": "objetos/mesa/textures/gothic_coffee_table_diff_4k.jpg"
+        },
+        "angulo_obj": 0.0,
+        "translacao": [
+            3.0,
+            -1.5,
+            -19.5
+        ],
+        "escala": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "id_textura": 699,
+        "obj_id": 699,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 699
     }
 ]
