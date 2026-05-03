@@ -1,3 +1,87 @@
 [
-    
+    {
+        "name": "Bus Stop",
+        "obj_file": "objetos/bus_stop/bus_stop.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            0.0,
+            0.0,
+            -20.0
+        ],
+        "escala": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "rotacao": [
+            276.0,
+            -2.5,
+            88.5
+        ],
+        "id_textura": 4,
+        "obj_id": 4,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 4
+    },
+    {
+        "name": "Onibus",
+        "obj_file": "objetos/onibus/bus_byjoao3DModels.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {
+            "base2": "objetos/onibus/textures/base2_BaseColor.png",
+            "bus": "objetos/onibus/textures/bus_BaseColor.png",
+            "glass": "objetos/onibus/textures/glass_op.png"
+        },
+        "angulo_obj": 0.0,
+        "translacao": [
+            0.0,
+            0.0,
+            -20.0
+        ],
+        "escala": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "id_textura": 6,
+        "obj_id": 6,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 6
+    },
+    {
+        "name": "Chão",
+        "obj_file": "objetos/ground-desert/ground.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            0.0,
+            0.0,
+            -20.0
+        ],
+        "escala": [
+            40,
+            40,
+            40
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "id_textura": 6,
+        "obj_id": 6,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 6
+    }
 ]
