@@ -24,7 +24,8 @@
         "obj_id": 4,
         "visible": true,
         "polygon": false,
-        "scene_id": 4
+        "scene_id": 4,
+        "scene_file": "scene.json"
     },
     {
         "name": "Onibus",
@@ -55,39 +56,8 @@
         "obj_id": 6,
         "visible": true,
         "polygon": false,
-        "scene_id": 6
-    },
-    {
-        "name": "casa",
-        "obj_file": "objetos/casa/house.mtl.obj",
-        "texture_file": null,
-        "mtl_texture_overrides": {
-            "Cottage_FREE": "objetos/casa/Cottage_Dirt_Base_Color.png",
-            "Material": "objetos/casa/FloorsMarble0020_2_S.jpg",
-            "piso": "objetos/casa/FloorsMarble0020_2_S.jpg",
-            "piso_1": "objetos/casa/FloorsMarble0020_2_S.jpg"
-        },
-        "angulo_obj": 0.0,
-        "translacao": [
-            0.0,
-            -2.5,
-            -20.0
-        ],
-        "escala": [
-            1.1,
-            1.1,
-            1.1
-        ],
-        "rotacao": [
-            0.0,
-            0.0,
-            0.0
-        ],
-        "id_textura": 3,
-        "obj_id": 3,
-        "visible": true,
-        "polygon": false,
-        "scene_id": 3
+        "scene_id": 6,
+        "scene_file": "scene.json"
     },
     {
         "name": "oven",
@@ -114,7 +84,8 @@
         "obj_id": 7,
         "visible": true,
         "polygon": false,
-        "scene_id": 7
+        "scene_id": 7,
+        "scene_file": "scene.json"
     },
     {
         "name": "gnome",
@@ -141,7 +112,8 @@
         "obj_id": 8,
         "visible": true,
         "polygon": false,
-        "scene_id": 8
+        "scene_id": 8,
+        "scene_file": "scene.json"
     },
     {
         "name": "vaso_de_planta",
@@ -171,7 +143,8 @@
         "obj_id": 9,
         "visible": true,
         "polygon": false,
-        "scene_id": 9
+        "scene_id": 9,
+        "scene_file": "scene.json"
     },
     {
         "name": "pato",
@@ -200,7 +173,8 @@
         "obj_id": 10,
         "visible": true,
         "polygon": false,
-        "scene_id": 10
+        "scene_id": 10,
+        "scene_file": "scene.json"
     },
     {
         "name": "stove",
@@ -227,7 +201,8 @@
         "obj_id": 11,
         "visible": true,
         "polygon": false,
-        "scene_id": 11
+        "scene_id": 11,
+        "scene_file": "scene.json"
     },
     {
         "name": "spinner",
@@ -258,7 +233,8 @@
         "obj_id": 12,
         "visible": true,
         "polygon": false,
-        "scene_id": 12
+        "scene_id": 12,
+        "scene_file": "scene.json"
     },
     {
         "name": "sofa",
@@ -287,7 +263,8 @@
         "obj_id": 697,
         "visible": true,
         "polygon": false,
-        "scene_id": 697
+        "scene_id": 697,
+        "scene_file": "scene.json"
     },
     {
         "name": "cama",
@@ -316,7 +293,8 @@
         "obj_id": 698,
         "visible": true,
         "polygon": false,
-        "scene_id": 698
+        "scene_id": 698,
+        "scene_file": "scene.json"
     },
     {
         "name": "mesa",
@@ -345,7 +323,8 @@
         "obj_id": 699,
         "visible": true,
         "polygon": false,
-        "scene_id": 699
+        "scene_id": 699,
+        "scene_file": "scene.json"
     },
     {
         "name": "DeadTree01",
@@ -372,7 +351,8 @@
         "obj_id": 516,
         "visible": true,
         "polygon": false,
-        "scene_id": 516
+        "scene_id": 516,
+        "scene_file": "scene.json"
     },
     {
         "name": "DeadTree02",
@@ -399,7 +379,8 @@
         "obj_id": 517,
         "visible": true,
         "polygon": false,
-        "scene_id": 517
+        "scene_id": 517,
+        "scene_file": "scene.json"
     },
     {
         "name": "DeadTree02",
@@ -426,7 +407,8 @@
         "obj_id": 518,
         "visible": true,
         "polygon": false,
-        "scene_id": 518
+        "scene_id": 518,
+        "scene_file": "scene.json"
     },
     {
         "name": "bed_table",
@@ -455,7 +437,8 @@
         "obj_id": 498,
         "visible": true,
         "polygon": false,
-        "scene_id": 498
+        "scene_id": 498,
+        "scene_file": "scene.json"
     },
     {
         "name": "clock",
@@ -482,7 +465,8 @@
         "obj_id": 498,
         "visible": true,
         "polygon": false,
-        "scene_id": 498
+        "scene_id": 498,
+        "scene_file": "scene.json"
     },
     {
         "name": "kitchen_table",
@@ -511,7 +495,8 @@
         "obj_id": 499,
         "visible": true,
         "polygon": false,
-        "scene_id": 499
+        "scene_id": 499,
+        "scene_file": "scene.json"
     },
     {
         "name": "carpet",
@@ -540,6 +525,37 @@
         "obj_id": 500,
         "visible": true,
         "polygon": false,
-        "scene_id": 500
+        "scene_id": 500,
+        "scene_file": "scene.json"
+    },
+    {
+        "name": "cottage",
+        "obj_file": "objetos/cottage/Cottage_perfeita.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {
+            "piso_1": "objetos/cottage/FloorsMarble0020_2_S.jpg"
+        },
+        "angulo_obj": 0.0,
+        "translacao": [
+            0.0,
+            -2.5,
+            -20.0
+        ],
+        "escala": [
+            1.1,
+            1.1,
+            1.1
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "id_textura": 501,
+        "obj_id": 501,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 501,
+        "scene_file": "scene.json"
     }
 ]

@@ -8,7 +8,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd C:/Users/Henrique/Downloads/alarm_clock_01_4k.blend/textures/alarm_clock_01_diff_4k.jpg
-map_Ns C:/Users/Henrique/Downloads/alarm_clock_01_4k.blend/textures/alarm_clock_01_rough_4k.exr
-map_refl C:/Users/Henrique/Downloads/alarm_clock_01_4k.blend/textures/alarm_clock_01_metal_4k.exr
-map_Bump -bm 1.000000 C:/Users/Henrique/Downloads/alarm_clock_01_4k.blend/textures/alarm_clock_01_nor_gl_4k.exr
+map_Kd textures/alarm_clock_01_diff_4k.jpg
+map_Ns textures/alarm_clock_01_rough_4k.exr
+map_refl textures/alarm_clock_01_metal_4k.exr
+map_Bump -bm 1.000000 textures/alarm_clock_01_nor_gl_4k.exr
