@@ -17,7 +17,7 @@
         ],
         "rotacao": [
             -90,
-            -0.0,
+            0.0,
             90.0
         ],
         "id_textura": 4,
@@ -483,5 +483,63 @@
         "visible": true,
         "polygon": false,
         "scene_id": 498
+    },
+    {
+        "name": "kitchen_table",
+        "obj_file": "objetos/kitchen_table/kitchen_table.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {
+            "painted_wooden_cabinet": "objetos/kitchen_table/textures/painted_wooden_cabinet_diff_4k.jpg"
+        },
+        "angulo_obj": 0.0,
+        "translacao": [
+            0.0,
+            0.0,
+            -20.0
+        ],
+        "escala": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "id_textura": 499,
+        "obj_id": 499,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 499
+    },
+    {
+        "name": "carpet",
+        "obj_file": "objetos/carpet/carpet.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {
+            "wire_000000000": "objetos/carpet/Textures/dirty_carpet_diff_4k.jpg"
+        },
+        "angulo_obj": 0.0,
+        "translacao": [
+            -0.7,
+            -1.8000000000000003,
+            -19.29999999999999
+        ],
+        "escala": [
+            0.006948617186792032,
+            0.017007318649743815,
+            0.05700731864974382
+        ],
+        "rotacao": [
+            90.0,
+            0.0,
+            -88.0
+        ],
+        "id_textura": 500,
+        "obj_id": 500,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 500
     }
 ]
