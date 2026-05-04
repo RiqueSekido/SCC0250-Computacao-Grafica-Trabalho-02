@@ -6,14 +6,14 @@
         "mtl_texture_overrides": {},
         "angulo_obj": 0.0,
         "translacao": [
-            -0.5,
+            5.5,
             -2.5,
             -31.0
         ],
         "escala": [
-            0.0129999999999999,
-            0.0129999999999999,
-            0.0129999999999999
+            0.0129674999999999,
+            0.013034124999999902,
+            0.013034124999999902
         ],
         "rotacao": [
             -90,
@@ -37,7 +37,7 @@
         },
         "angulo_obj": 0.0,
         "translacao": [
-            3.0,
+            7.121396259429998,
             -2.5,
             -34.0
         ],
@@ -346,5 +346,86 @@
         "visible": true,
         "polygon": false,
         "scene_id": 699
+    },
+    {
+        "name": "DeadTree01",
+        "obj_file": "objetos/dead_trees/DeadTree1.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            -8.0,
+            -3.0,
+            -25.5
+        ],
+        "escala": [
+            0.016932999954316814,
+            0.01766527813601234,
+            0.01766527813601234
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "id_textura": 516,
+        "obj_id": 516,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 516
+    },
+    {
+        "name": "DeadTree02",
+        "obj_file": "objetos/dead_trees/DeadTree11.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            2.0,
+            -2.5,
+            -44.0
+        ],
+        "escala": [
+            0.01,
+            0.01,
+            0.01
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "id_textura": 517,
+        "obj_id": 517,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 517
+    },
+    {
+        "name": "DeadTree02",
+        "obj_file": "objetos/dead_trees/DeadTree21.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            9.6,
+            -2.5,
+            -30.5
+        ],
+        "escala": [
+            0.01,
+            0.01,
+            0.01
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "id_textura": 518,
+        "obj_id": 518,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 518
     }
 ]
