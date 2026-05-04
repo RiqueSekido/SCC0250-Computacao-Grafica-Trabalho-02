@@ -29,6 +29,7 @@ A implementação utiliza arquivos JSON para guardar as informações e os estad
 * **H / N:** Mover para frente/trás.
 * **B / M:** Mover para os lados.
 * **P:** Ativa/Desativa o modo de malha poligonal (*Wireframe*).
+* **R:** Reseta a cena para o seu estado original.
 * **Ctrl + Shift + Alt + Super (Tecla Windows / Command no Mac) + K:** Desativa o modo restrito, permitindo a movimentação livre da câmera e o livre controle de todos os objetos do cenário.
 
 ### Transformações Especiais
