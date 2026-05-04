@@ -383,7 +383,7 @@
         "scene_file": "scene.json"
     },
     {
-        "name": "DeadTree02",
+        "name": "DeadTree03",
         "obj_file": "objetos/dead_trees/DeadTree21.obj",
         "texture_file": null,
         "mtl_texture_overrides": {},
@@ -556,6 +556,65 @@
         "visible": true,
         "polygon": false,
         "scene_id": 501,
+        "scene_file": "scene.json"
+    },
+    {
+        "name": "cacamba de lixo",
+        "obj_file": "objetos/cacamba/Low Poly Stylized Industrial Dumpster.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {},
+        "angulo_obj": 0.0,
+        "translacao": [
+            7.0299999999998946,
+            -1.750000000000001,
+            -16.91999999999952
+        ],
+        "escala": [
+            2.063375165485894,
+            2.1508683305807077,
+            2.1508683305807077
+        ],
+        "rotacao": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "id_textura": 501,
+        "obj_id": 501,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 501,
+        "scene_file": "scene.json"
+    },
+    {
+        "name": "Parede_Madeira",
+        "obj_file": "objetos/wood-wall/WOOD_WALL.obj",
+        "texture_file": null,
+        "mtl_texture_overrides": {
+            "Material": "objetos/wood-wall/textures/dark_wood_diff_4k.jpg",
+            "Material.001": "objetos/wood-wall/textures/dark_wood_diff_4k.jpg"
+        },
+        "angulo_obj": 0.0,
+        "translacao": [
+            -0.09999999999999999,
+            0.9700000000000002,
+            -24.080000000000638
+        ],
+        "escala": [
+            0.1,
+            0.2,
+            2.635
+        ],
+        "rotacao": [
+            0.0,
+            90.0,
+            0.0
+        ],
+        "id_textura": 502,
+        "obj_id": 502,
+        "visible": true,
+        "polygon": false,
+        "scene_id": 502,
         "scene_file": "scene.json"
     }
 ]
